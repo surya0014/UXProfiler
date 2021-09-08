@@ -1,0 +1,9 @@
+<suite name="Parallel tests" parallel="tests" thread-count="1" >
+  <test name="Test One">
+    <parameter name="test-name" value="Test One"/>
+    <classes>
+      <!-- <class name="sample.SampleSelenium" /> -->
+    </classes>
+  </test>
+  
+</suite>
