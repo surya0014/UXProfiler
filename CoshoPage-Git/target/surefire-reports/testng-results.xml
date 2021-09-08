@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="10234" started-at="2021-07-14T18:21:05Z" finished-at="2021-07-14T18:21:15Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="10234" started-at="2021-07-14T18:21:05Z" finished-at="2021-07-14T18:21:15Z">
+      <class name="sample.SampleSelenium">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:sample.SampleSelenium@215be6bb]" name="initialize" is-config="true" duration-ms="2863" started-at="2021-07-14T18:21:05Z" finished-at="2021-07-14T18:21:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="method1()[pri:0, instance:sample.SampleSelenium@215be6bb]" name="method1" duration-ms="7357" started-at="2021-07-14T18:21:08Z" finished-at="2021-07-14T18:21:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+      </class> <!-- sample.SampleSelenium -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
