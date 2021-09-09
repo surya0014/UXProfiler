@@ -53,7 +53,7 @@
 			<artifactId>SeleniumScriptExecutorForCxPerf</artifactId>
 			<scope>system</scope>
 			<version>1.0</version>
-			<systemPath>C:/PerfAssure/GitLab/CLAPProject/CxPerf ScriptController/CoshoPage-Git/src/test/resources/CxPerfWrapperForSelenium.jar</systemPath>
+			<systemPath>C:/PerfAssure/GitLab/CLAPProject/CxPerf ScriptController/UXProfiler/src/test/resources/CxPerfWrapperForSelenium.jar</systemPath>
 		</dependency>
 	</dependencies>
 	<build>
