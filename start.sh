@@ -1,0 +1,2 @@
+#!/bin/bash
+java -jar $1 --spring.data.mongodb.uri=mongodb://leap-api:leap-new-api_1947@localhost:27017/leap --app.auth.client.url=http://localhost:2020/ --app.dashboard.client.url=http://localhost:2022/ & echo $! > ./$1.file &
