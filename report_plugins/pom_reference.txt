@@ -1,0 +1,13 @@
+<dependency>
+          
+	<groupId>com.cognizant</groupId>
+            
+	<artifactId>report-client</artifactId>
+            
+	<version>0.0.1-SNAPSHOT</version>
+            
+	<scope>system</scope>
+            
+	<systemPath>${project.basedir}/src/test/resources/report-client-0.0.1-SNAPSHOT.jar</systemPath>
+        
+</dependency>
