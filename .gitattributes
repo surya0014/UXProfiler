@@ -1,3 +1,0 @@
-report-api-3.5.0.jar filter=lfs diff=lfs merge=lfs -text
-cctp_binaries.zip filter=lfs diff=lfs merge=lfs -text
-auth-api-3.5.0.jar filter=lfs diff=lfs merge=lfs -text
